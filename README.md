@@ -4,8 +4,10 @@ This project is a dashboard for monitoring a robotic system. It displays real-ti
 
 ## Installation
 
-1. Clone the repository to your local machine:
 
+
+
+1. Clone the repository to your local machine:
 ```bash
 git clone <repository-url>
 
@@ -15,7 +17,7 @@ bash
 
 cd robotic-system-dashboard
 
-    Install dependencies using npm:
+3. Install dependencies using npm:
 
 bash
 
