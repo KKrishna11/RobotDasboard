@@ -9,7 +9,7 @@ This project is a dashboard for monitoring a robotic system. It displays real-ti
 ```bash
 git clone <repository-url>
 
-    Navigate to the project directory:
+2. Navigate to the project directory:
 
 bash
 
